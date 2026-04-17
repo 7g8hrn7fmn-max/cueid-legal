@@ -105,4 +105,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have questions about this Privacy Policy, contact:
 
-support@example.com
+admin@kirigoe.uk
